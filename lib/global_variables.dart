@@ -2,7 +2,7 @@ final products = [
   {
     "id": "0",
     "title": "Men's Nike Shoes",
-    "price": 100,
+    "price": 100.0,
     "size": [8, 9, 10, 11, 12],
     "company": "Nike",
     "imageUrl": "assets/images/shoes_1.png",
@@ -37,7 +37,7 @@ final cart = [
   {
     "id": "0",
     "title": "Men's Nike Shoes",
-    "price": 100,
+    "price": 100.0,
     "size": 10,
     "company": "Nike",
     "imageUrl": "assets/images/shoes_1.png",
